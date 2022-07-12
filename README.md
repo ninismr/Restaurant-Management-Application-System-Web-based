@@ -1,1 +1,1 @@
-# Restaurant-Management-Application-System-Web-based
+# Restaurant Management System Web-based Application
