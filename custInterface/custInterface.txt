@@ -1,0 +1,2 @@
+These are several codes that are used to create the customer interface using PHP programming language. 
+For the complete code, you may download the RestaurantMgtSystem.zip file.
